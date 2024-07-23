@@ -6,7 +6,7 @@ Olá! Eu sou Nicolas Souza, futuro desenvolvedor Full-Stack apaixonado por tecno
 
 - 🔭 Atualmente, estou estudando e tornando projetos de Figma em aplicações reais.
 - 🌱 Estou aprendendo mais sobre desenvolvimento front-end e back-end.
-- 👯 Estou procurando colaborar em projetos de código aberto relacionados a software educacional e resumindo.
+- 👯 Estou procurando colaborar em projetos de código aberto relacionados a software.
 - 📫 Como me encontrar: nicolasdsmdsouza2004@gmail.com
 - ⚡ Curiosidade: Eu adoro jogos de celulares e buscar novos conhecimentos!
 
